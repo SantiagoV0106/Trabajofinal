@@ -163,7 +163,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(1200, 1200);
+  createCanvas(1200, 700);
   enemigo1 = new Enemigo(1*40, 1*40) //wirplos
   enemigo2 = new Enemigo(1*40, 1*40)
   enemigo3 = new Enemigo(1*40, 1*40)
